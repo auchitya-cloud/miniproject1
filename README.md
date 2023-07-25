@@ -1,0 +1,2 @@
+# miniproject1
+Mini Project-01: Subset Selection Problem
